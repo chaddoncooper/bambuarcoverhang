@@ -1,0 +1,4 @@
+shapely>=2.0
+numpy
+matplotlib
+numpy-hilbert-curve
